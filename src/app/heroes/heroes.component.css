@@ -1,6 +1,6 @@
 /* HeroesComponent's private CSS styles */
 .selected {
-  background-color: #CFD8DC !important;
+  background-color: lightseagreen !important;
   color: white;
 }
 .heroes {
@@ -21,7 +21,7 @@
 }
 .heroes li.selected:hover {
   background-color: #BBD8DC !important;
-  color: mediumspringgreen;
+  color: white;
 }
 .heroes li:hover {
   color: #607D8B;
